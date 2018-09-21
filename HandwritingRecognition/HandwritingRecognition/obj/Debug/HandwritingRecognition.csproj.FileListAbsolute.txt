@@ -1,0 +1,9 @@
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\bin\Debug\HandwritingRecognition.exe.config
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\bin\Debug\HandwritingRecognition.exe
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\bin\Debug\HandwritingRecognition.pdb
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\obj\Debug\HandwritingRecognition.MainForm.resources
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\obj\Debug\HandwritingRecognition.Properties.Resources.resources
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\obj\Debug\HandwritingRecognition.csproj.GenerateResource.cache
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\obj\Debug\HandwritingRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\obj\Debug\HandwritingRecognition.exe
+C:\Users\Hantao Zhong\Documents\GitHub\HandwritingRecognition\HandwritingRecognition\HandwritingRecognition\obj\Debug\HandwritingRecognition.pdb
